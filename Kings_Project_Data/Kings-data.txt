@@ -1,0 +1,275 @@
+Name: Saul
+Alt Names:
+Father: Kish
+Mother:
+Reign:
+Status:
+Location:
+Death: Killed
+Age of Acession:
+Note:
+Reference:
+
+Name: David
+Alt Names:
+Father: Jesse
+Mother:
+Reign: 40 years
+Status: Good
+Location: Hebron[7] & Jerusalem[33]
+Death: Natural
+Age of Acession:
+Note:
+Reference:
+
+Name: Solomon
+Alt Names:
+Father: David
+Mother: Bathsheba
+Reign: 40 years
+Status: Good
+Location: Jerusalem
+Death: Natural
+Age of Acession:
+Note:
+Reference:
+
+Name: Rehoboam
+Alt Names:
+Father: Solomon
+Mother: Naamah
+Reign: 17 years
+Status: Evil
+Location: Jerusalem
+Death:
+Age of Acession: 41
+Note:
+Reference:
+
+Name: Abijam
+Alt Names: Abijah
+Father: Rehoboam
+Mother: Maacah
+Reign: 3 years
+Status: Evil
+Location: Jerusalem
+Death:
+Age of Acession:
+Note:
+Reference:
+
+Name: Asa
+Alt Names:
+Father: Abijam
+Mother:
+Reign: 41 years
+Status: Good
+Location: Jerusalem
+Death:
+Age of Acession:
+Note:
+Reference:
+
+Name: Jehoshaphat
+Alt Names:
+Father: Asa
+Mother: Azubah
+Reign: 25 years
+Status: Good *
+Location: Jerusalem
+Death:
+Age of Acession: 35
+Note:
+Reference:
+
+Name: Jehoram
+Alt Names:
+Father: Jehoshaphat
+Mother:
+Reign: 8 years
+Status: Evil
+Location: Jerusalem
+Death:
+Age of Acession: 32
+Note:
+Reference:
+
+Name: Ahaziah
+Alt Names:
+Father: Jehoram
+Mother: Athaliah
+Reign: 1 year
+Status: Evil
+Location: Jerusalem
+Death: Assassinated by Jehu
+Age of Acession: 22
+Note:
+Reference:
+
+Name: Athaliah
+Alt Names:
+Father:
+Mother:
+Reign: 7 years
+Status: Evil
+Location: Jerusalem
+Death: Killed
+Age of Acession:
+Note:
+Reference:
+
+Name: Joash
+Alt Names:
+Father: Ahaziah
+Mother: Zibiah
+Reign: 40 years
+Status: Good
+Location: Jerusalem
+Death: Assassinated
+Age of Acession: 7
+Note:
+Reference:
+
+Name: Amaziah
+Alt Names:
+Father: Joash
+Mother: Jehoaddin
+Reign: 29 years
+Status: Good
+Location: Jerusalem
+Death: Assassinated
+Age of Acession: 25
+Note:
+Reference:
+
+Name: Uzziah
+Alt Names:
+Father: Amaziah
+Mother: Jecoliah
+Reign: 52 years
+Status: Good
+Location:Jerusalem
+Death: Natural
+Age of Acession: 16
+Note: Stroke with leprosy
+Reference:
+
+Name: Jotham
+Alt Names:
+Father: Uzziah
+Mother: Jerusha
+Reign: 16 years
+Status: Good
+Location: Jerusalem
+Death:
+Age of Acession: 25
+Note:
+Reference:
+
+Name: Ahaz
+Alt Names:
+Father: Jotham
+Mother: 
+Reign: 16 years
+Status: Evil
+Location: Jerusalem
+Death:
+Age of Acession: 20
+Note:
+Reference:
+
+Name: Hezekiah
+Alt Names:
+Father: Ahaz
+Mother: Abijah [Abi]
+Reign: 29 years
+Status: Good
+Location:Jerusalem
+Death:
+Age of Acession: 25
+Note:
+Reference:
+
+Name: Manasseh
+Alt Names:
+Father: Hezekiah
+Mother:
+Reign: 55 years
+Status: Evil
+Location: Jerusalem
+Death:
+Age of Acession: 12
+Note: Repented and turned to the LORD 
+Reference:
+
+Name: Amon
+Alt Names:
+Father: Manasseh
+Mother: Meshullemeth
+Reign: 2 years
+Status: Evil
+Location: Jerusalem
+Death: Assassinated
+Age of Acession: 22
+Note:
+Reference:
+
+Name: Josiah
+Alt Names:
+Father: Amon
+Mother: Jedidah
+Reign: 31 years
+Status: Good
+Location: Jerusalem
+Death: Killed
+Age of Acession: 8
+Note:
+Reference:
+
+Name: Jehoahaz
+Alt Names:
+Father: Joash
+Mother: Hamutal
+Reign: 3 months
+Status: Evil
+Location: Jerusalem
+Death: Sickness
+Age of Acession: 23
+Note:
+Reference:
+
+Name: Eliakim
+Alt Names: Jehoiakim
+Father: Josiah
+Mother:
+Reign: 11 years
+Status: Evil
+Location: Jerusalem
+Death:
+Age of Acession: 25
+Note: Vasel King of Eygpt
+Reference:
+
+Name: Jehoiachin
+Alt Names:
+Father: Eliakim
+Mother:
+Reign: 3 months 10 days
+Status: Evil
+Location: Jerusalem
+Death:
+Age of Acession: 18
+Note:
+Reference:
+
+Name: Mattaniah
+Alt Names: Zedekiah
+Father: Josiah
+Mother:
+Reign: 11 years
+Status: Evil
+Location: Jerusalem
+Death:
+Age of Acession: 21
+Note: Vasel King of Babylon
+Reference:

@@ -151,7 +151,7 @@ Status: Good
 Location:Jerusalem
 Death: Natural
 Age of Acession: 16
-Note: Stroke with leprosy
+Note: Struck with leprosy
 Reference:
 
 Name: Jotham

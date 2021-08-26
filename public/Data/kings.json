@@ -1,0 +1,26 @@
+{
+    "King":[
+        {"name":"David", "alt_name":"", "father":"Jesse", "mother":"", "reign":"40 years", "status":"Good", "location":"Hebron[7] & Jerusalem[33]", "death": "Natural", "age_of_acession":"", "note":"", "reference":""},
+        {"name":"Solomon", "alt_name":"", "father":"David", "mother":"Bathsheba", "reign":"40 years", "status":"Good", "location":"Jerusalem", "death": "Natural", "age_of_acession":"", "note":"", "reference":""},
+        {"name":"Rehoboam", "alt_name":"", "father":"Solomon", "mother":"Naamah", "reign":"17 years", "status":"Evil", "location":"Jerusalem", "death": "", "age_of_acession": 41, "note":"", "reference":""},
+        {"name":"Abijam", "alt_name":"Abijah", "father":"Rehoboam", "mother":"Maacah", "reign":"3 years", "status":"Evil", "location":"Jerusalem", "death": "", "age_of_acession":"", "note":"", "reference":""},
+        {"name":"Asa", "alt_name":"", "father":"Abijam", "mother":"", "reign":"41 years", "status":"Good", "location":"Jerusalem", "death": "", "age_of_acession":"", "note":"", "reference":""},
+        {"name":"Jehoshaphat", "alt_name":"", "father":"Asa", "mother":"Azubah", "reign":"25 years", "status":"Good *", "location":"Jerusalem", "death": "", "age_of_acession":35, "note":"", "reference":""},
+        {"name":"Jehoram", "alt_name":"", "father":"Jehoshaphat", "mother":"", "reign":"8 years", "status":"Evil", "location":"Jerusalem", "death": "", "age_of_acession":32, "note":"", "reference":""},
+        {"name":"Ahaziah", "alt_name":"", "father":"Jehoram", "mother":"Athaliah", "reign":"1 year", "status":"Evil", "location":"Jerusalem", "death": "Assassinated by Jehu", "age_of_acession":22, "note":"", "reference":""},
+        {"name":"Athaliah*", "alt_name":"", "father":"", "mother":"", "reign":"7 years", "status":"Evil", "location":"Jerusalem", "death": "Killed", "age_of_acession":"", "note":"", "reference":""},
+        {"name":"Joash", "alt_name":"", "father":"Ahaziah", "mother":"Zibiah", "reign":"40 years", "status":"Good", "location":"Jerusalem", "death": "Assassinated", "age_of_acession":7, "note":"", "reference":""},
+        {"name":"Amaziah", "alt_name":"", "father":"Joash", "mother":"Jehoaddin", "reign":"29 years", "status":"Good", "location":"Jerusalem", "death": "Assassinated", "age_of_acession":"", "note":"", "reference":""},
+        {"name":"Uzziah", "alt_name":"", "father":"Amaziah", "mother":"Jecoliah", "reign":"52 years", "status":"Good", "location":"Jerusalem", "death": "Natural", "age_of_acession":16, "note":"Struck with leprosy", "reference":""},
+        {"name":"Jotham", "alt_name":"", "father":"Uzziah", "mother":"Jerusha", "reign":"16 years", "status":"Good", "location":"Jerusalem", "death": "", "age_of_acession":25, "note":"", "reference":""},
+        {"name":"Ahaz", "alt_name":"", "father":"Jotham", "mother":"", "reign":"16 years", "status":"Evil", "location":"Jerusalem", "death": "", "age_of_acession":20, "note":"", "reference":""},
+        {"name":"Hezekiah", "alt_name":"", "father":"Ahaz", "mother":"Abijah [Abi]", "reign":"29 years", "status":"Good", "location":"Jerusalem", "death": "", "age_of_acession":25, "note":"", "reference":""},
+        {"name":"Manasseh", "alt_name":"", "father":"Hezekiah", "mother":"", "reign":"55 years", "status":"Evil", "location":"Jerusalem", "death": "", "age_of_acession":12, "note":"Repented and turned to the LORD", "reference":""},
+        {"name":"Amon", "alt_name":"", "father":"Manasseh", "mother":"Meshullemeth", "reign":"2 years", "status":"Evil", "location":"Jerusalem", "death": "Assassinated", "age_of_acession":22, "note":"", "reference":""},
+        {"name":"Josiah", "alt_name":"", "father":"Amon", "mother":"Jedidah", "reign":"31 years", "status":"Good", "location":"Jerusalem", "death": "Killed", "age_of_acession":8, "note":"", "reference":""},
+        {"name":"Jehoahaz", "alt_name":"", "father":"Josiah", "mother":"Hamutal", "reign":"3 months", "status":"Evil", "location":"Jerusalem", "death": "Sickness", "age_of_acession":23, "note":"", "reference":""},
+        {"name":"Eliakim", "alt_name":"Jehoiakim", "father":"Jehoahaz", "mother":"", "reign":"11 years", "status":"Evil", "location":"Jerusalem", "death": "", "age_of_acession":25, "note":"", "reference":""},
+        {"name":"Jehoiachin", "alt_name":"", "father":"Eliakim", "mother":"", "reign":"3 months 10 days", "status":"Evil", "location":"Jerusalem", "death": "", "age_of_acession":18, "note":"", "reference":""},
+        {"name":"Mattaniah", "alt_name":"Zedekiah", "father":"Josiah", "mother":"", "reign":"11 years", "status":"Evil", "location":"Jerusalem", "death": "", "age_of_acession":21, "note":"Vasel King of Babylon", "reference":""}
+    ]
+}
